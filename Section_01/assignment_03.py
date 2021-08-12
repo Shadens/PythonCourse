@@ -55,5 +55,6 @@ word = "Cool"
 
 # Solution Below:
 # print(chars[:2] + word + chars[2:])
-
+/ More Correct Solution :) 
+    
 
